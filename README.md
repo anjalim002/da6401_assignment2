@@ -215,4 +215,5 @@ Download dataset and train with RMSprop:
 python partB.py --wandb_entity username --wandb_project iNaturalist --download_dataset --optimizer rmsprop --learning_rate 0.0002
 ```
 
-
+Github Link:
+https://github.com/anjalim002/da6401_assignment2/tree/master 
